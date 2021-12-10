@@ -1,18 +1,12 @@
-# LGMTask2VIPNOV21
 
-#Single Page Website
+# Basic React App
+
+Its a Basic React JS App made using create-react-app which is using a API to fetch data.
 
 Tech Used:
 1. HTML
 2. CSS
 3. Java Script
 4. React JS
-
-# Basic React App
-
-Its a basic react app.
-
-This repository contains all the details of the website. #LGMVIPNOVEMBER21 #LetsGrowMore
-
-Submitted by-
+Made by-
 Ananay Gupta
